@@ -1,4 +1,4 @@
-FROM centos:7
+FROM registry.ott-consult.de/oc/base:latest
 MAINTAINER Joern Ott <joern.ott@ott-consult.de>
 
 ENV JAVA_VERSION=8u141 \
